@@ -1,5 +1,5 @@
 {
-  "name": "gulp-setup",
+  "name": "c",
   "version": "4.0.0",
   "description": "gulp boilerplate",
   "main": "index.js",
@@ -25,5 +25,13 @@
     "gulp-uglify": "^3.0.2",
     "gulp-util": "^3.0.8"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klizau/--template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/klizau/--template/issues"
+  },
+  "homepage": "https://github.com/klizau/--template#readme"
 }
